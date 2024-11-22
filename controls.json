@@ -1,0 +1,14 @@
+{
+    "up": "w",
+    "down": "s",
+    "left": "a",
+    "right": "d",
+    "dash": "Shift_L",
+    "shootLeft": "j",
+    "shootDown": "k",
+    "shootUp": "i",
+    "shootRight": "l",
+    "interact": "f",
+    "bossKey": "Escape",
+    "pause": "p"
+}
